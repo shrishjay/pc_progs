@@ -46,6 +46,5 @@ int main()
 
     printf("The FIRST LARGEST = %d\n", largest1);
     printf("THE SECOND LARGEST = %d\n", largest2);
-
     return 0;
 }
